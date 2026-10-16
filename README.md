@@ -12,11 +12,6 @@ Shipping production software since 2017, mostly in Node.js, TypeScript, and Post
 - **[DeserTracker](https://www.desertracker.com/)**, my own product. A price tracker for UAE shoppers, so you can tell a real deal from a fake discount. 1.6M+ products and 12M+ price points, built and run by me alone. [Case study](https://ahmadmu.com/work/desertracker-uae-price-tracker)
 - **Before that:** [Ekhtibary](https://ahmadmu.com/work/ekhtibary-assessments-platform-dubai), an assessment platform that ran a live exam with 1,000+ students at once, and a [social case management system for UNICEF](https://ahmadmu.com/work/social-case-management-system-unicef). [All work](https://ahmadmu.com/work)
 
-## Open source
-
-- **[Karakeep](https://github.com/karakeep-app/karakeep)**, the self-hosted bookmark app: [8 merged PRs](https://github.com/karakeep-app/karakeep/pulls?q=is%3Apr+is%3Amerged+author%3Aahmadmuj), including PDF support, PDF screenshots, Arabic language support, and recrawling failed links.
-- **[CozyLife for Home Assistant](https://github.com/cozylife/hass_cozylife_local_pull)**: [fixed platform loading](https://github.com/cozylife/hass_cozylife_local_pull/pull/50) for Home Assistant 2025.5+.
-
 ## Writing
 
 - [Making a Payment Retry Safe](https://ahmadmu.com/blog/making-a-payment-retry-safe)
