@@ -1,41 +1,31 @@
-# Ahmad Mujahid 👨‍💻
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-muj/)](https://www.linkedin.com/in/ahmad-muj/)
-[![Website Badge](https://img.shields.io/badge/Website-ahmadmu.com-informational)](https://ahmadmu.com)
-[![Email Badge](https://img.shields.io/badge/-Email%20Me-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:me@ahmadmu.com)](mailto:me@ahmadmu.com)
-![](https://komarev.com/ghpvc/?username=AhmadMuj&style=pixel)
+# Hi, I'm Ahmad
 
-I'm a Senior Software Engineer based in Dubai, UAE, with over 7 years of experience building high-performance, scalable backend systems. I specialize in leveraging Node.js and Python to create robust LLM-powered applications.
+Lead Backend Engineer at [Tern](https://www.ternrewards.com/) in Dubai. I build the software that moves money: when a tenant pays rent by card, my systems charge the card, record every dirham, and pay the landlord.
 
----
+Shipping production software since 2017, mostly in Node.js, TypeScript, and PostgreSQL.
 
-### 🎯 Core Focus
-- 🚀 **Backend Development:** Building and scaling microservices with **Node.js (NestJS)** and **Python**.
-- 🤖 **AI & LLM Solutions:** Designing and implementing complex systems using RAG, prompt engineering, and vector databases.
-- ☁️ **System Architecture:** Architecting resilient, high-performance systems ready for production.
-- 👨‍💼 **Team Leadership:** Leading development teams across 14+ production projects to deliver high-quality software.
+[ahmadmu.com](https://ahmadmu.com) | [LinkedIn](https://www.linkedin.com/in/ahmad-muj) | [me@ahmadmu.com](mailto:me@ahmadmu.com) | [Book a 30-minute call](https://cal.com/ahmad-mu/30min)
 
----
+## What I work on
 
-### 🛠️ Tech Stack
+- **Payments at Tern.** I rebuilt the core payments system: charges, refunds, payouts, and provider integrations. AED 100M+ in rent has gone through it. [Case study](https://ahmadmu.com/work/tern-rent-payments-platform-dubai)
+- **[DeserTracker](https://www.desertracker.com/)**, my own product. A price tracker for UAE shoppers, so you can tell a real deal from a fake discount. 1.6M+ products and 12M+ price points, built and run by me alone. [Case study](https://ahmadmu.com/work/desertracker-uae-price-tracker)
+- **Before that:** [Ekhtibary](https://ahmadmu.com/work/ekhtibary-assessments-platform-dubai), an assessment platform that ran a live exam with 1,000+ students at once, and a [social case management system for UNICEF](https://ahmadmu.com/work/social-case-management-system-unicef). [All work](https://ahmadmu.com/work)
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Node.js, Python, Golang, TypeScript, SQL |
-| **Frameworks** | NestJS, Next.js, React |
-| **Databases** | PostgreSQL, MySQL, Redis, Qdrant, Vector Databases |
-| **AI/ML** | LLM Integration, RAG, NLP, OpenAI, Ollama |
-| **Tools & DevOps** | Docker, Git, Linux, AWS, CI/CD, RabbitMQ |
+## Open source
 
----
+- **[Karakeep](https://github.com/karakeep-app/karakeep)**, the self-hosted bookmark app: [8 merged PRs](https://github.com/karakeep-app/karakeep/pulls?q=is%3Apr+is%3Amerged+author%3Aahmadmuj), including PDF support, PDF screenshots, Arabic language support, and recrawling failed links.
+- **[CozyLife for Home Assistant](https://github.com/cozylife/hass_cozylife_local_pull)**: [fixed platform loading](https://github.com/cozylife/hass_cozylife_local_pull/pull/50) for Home Assistant 2025.5+.
 
-### 🚀 Notable Projects
-1. [**Haystack Insight:** AI-Powered Document Intelligence (Golang, RAG)](https://ahmadmu.com/portfolio/ai-powered-documents-intelligence-haystack-insight)
-2. [**YSpot Platform:** Youth Employment Platform (Node.js, NestJS)](https://ahmadmu.com/portfolio/yspot-youth-platform-dubai)
-3. [**AI-Powered Medical Residency Application Evaluator (Python, LLM)**](https://ahmadmu.com/portfolio/ai-powered-medical-residency-application-evaluator)
+## Writing
 
----
+- [Making a Payment Retry Safe](https://ahmadmu.com/blog/making-a-payment-retry-safe)
+- [Running an AI Code Reviewer in Production](https://ahmadmu.com/blog/running-an-ai-code-reviewer-in-production)
+- [Why an Idle Postgres Connection Crashed My Node.js Service](https://ahmadmu.com/blog/why-an-idle-postgres-connection-crashed-my-node-service)
+- [My AI Agents Took Down My Own Server](https://ahmadmu.com/blog/my-ai-agents-took-down-my-own-server)
 
-### 📫 How to reach me
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/ahmad-muj/)
-- 🌐 Visit my [Personal Website](https://ahmadmu.com)
-- 📧 Email me at [me@ahmadmu.com](mailto:me@ahmadmu.com)
+Plus a lot of homelab posts: unRAID, Zigbee, backups, and self-hosting. [All posts](https://ahmadmu.com/blog)
+
+## Teaching
+
+Two Udemy courses: [Knex.js and PostgreSQL](https://www.udemy.com/course/database-management-knexjs-postgresql/?referralCode=37D7810215DA59BFC5AD) and a [URL shortener in TypeScript and Koa](https://www.udemy.com/course/url-shortener-typescript-koa-postgresql/?referralCode=DD4381252F11DCDE45A6). Course code: [English](https://github.com/ahmadmuj/url-shortener-course-en), [Arabic](https://github.com/ahmadmuj/url-shortener-course-ar), [Knex.js](https://github.com/ahmadmuj/knexjs-comprehensive-course).
